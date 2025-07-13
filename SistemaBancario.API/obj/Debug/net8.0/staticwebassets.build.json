@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "0NKfhUNAib41vIjjlqNXKU9Ovv/Uj98ickmRnuwI+tc=",
+  "Source": "SistemaBancario.API",
+  "BasePath": "_content/SistemaBancario.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

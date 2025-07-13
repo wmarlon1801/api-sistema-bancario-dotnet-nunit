@@ -1,0 +1,11 @@
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\bin\Debug\net8.0\SistemaBancario.Core.deps.json
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\bin\Debug\net8.0\SistemaBancario.Core.dll
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\bin\Debug\net8.0\SistemaBancario.Core.pdb
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\obj\Debug\net8.0\SistemaBancario.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\obj\Debug\net8.0\SistemaBancario.Core.AssemblyInfoInputs.cache
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\obj\Debug\net8.0\SistemaBancario.Core.AssemblyInfo.cs
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\obj\Debug\net8.0\SistemaBancario.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\obj\Debug\net8.0\SistemaBancario.Core.dll
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\obj\Debug\net8.0\refint\SistemaBancario.Core.dll
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\obj\Debug\net8.0\SistemaBancario.Core.pdb
+C:\Users\Usuário\source\repos\Projetos_Testes_Automatizados\SistemaBancario\SistemaBancario.Core\obj\Debug\net8.0\ref\SistemaBancario.Core.dll
