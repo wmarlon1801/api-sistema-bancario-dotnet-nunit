@@ -1,0 +1,48 @@
+## Compilação
+bin/
+obj/
+out/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Arquivos de log e cache
+*.log
+*.cache
+
+## Sistema operacional
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+## Testes e cobertura
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+
+## Ferramentas e pacotes
+.vscode/
+.idea/
+*.ncrunch*
+*.dotCover
+packages/
+*.nupkg
+*.snupkg
+
+## Backup temporário
+*.bak
+*.tmp
+*.swp
+
+## Outros
+_ReSharper*/
+*.resharper
+*.sln.cache
